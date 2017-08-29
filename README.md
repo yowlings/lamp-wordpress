@@ -1,0 +1,1 @@
+# One key to build your blog with LAMP+wordpress
